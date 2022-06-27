@@ -1,29 +1,26 @@
-# README #
+# Fastify Restfull Server API JavaScript Template
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Getting Started with Fastify-CLI [Fastify-CLI](https://www.npmjs.com/package/fastify-cli)
 
-### What is this repository for? ###
+This project was bootstrapped with Fastify-CLI.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Available Scripts
 
-### How do I get set up? ###
+In the project directory, you can run:
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### `npm run dev`
 
-### Contribution guidelines ###
+To start the app in dev mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-* Writing tests
-* Code review
-* Other guidelines
+### `npm start`
 
-### Who do I talk to? ###
+For production mode
 
-* Repo owner or admin
-* Other community or team contact
+### `npm run test`
+
+Run the test cases.
+
+## Learn More
+
+To learn Fastify, check out the [Fastify documentation](https://www.fastify.io/docs/latest/).
